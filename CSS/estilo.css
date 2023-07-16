@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(2, 2, 17);
+}
+
+
+/*h1{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
+
+.seccion-form{
+    display: inline-table;
+    justify-content: center;
+    background-color: rgb(243, 232, 232);
+    border: 2px solid rgb(31, 30, 32);
+    border-radius: 10px 10px 0 0;
+}
+
+.btnAgregar{
+    display: flex;
+    justify-content: center;
+}
+
+.seccion-form div button{
+    align-self: auto;
+}
+
+
+input{
+    border-radius: 10px;
+    box-shadow: 5px 5px  rgb(222, 196, 196);
+}
+
+.seccion-form div {
+   
+    padding: 5px;
+    margin: 5px;
+}
+
+
+table, tr, th, td{
+    border: 2px solid rgb(85, 39, 39);
+}
+
+td button{
+    border-radius: 100%;
+    margin:3px 5px 3px 5px;
+    border: none;
+}
+
+td button:hover{
+    border-radius: 100%;
+    background-color: rgb(176, 245, 222);
+}
+
+#btn{
+    border-radius: 20px;
+    font-size: initial;
+    border: 1px solid rgb(174, 80, 99);
+    box-shadow: 3px 3px  rgb(222, 196, 196);
+}
+
+#btn:hover{
+    border-radius: 20px;
+    font-size: large;
+    border: 2px solid rgb(174, 80, 99);
+    box-shadow: 4px 4px rgb(216, 181, 181);
+}*/
